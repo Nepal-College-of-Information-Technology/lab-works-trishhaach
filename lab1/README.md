@@ -9,6 +9,7 @@
 
 ### Background Theory:
 
+
 #### Programming Paradigm:
 
 #### Logic Programming:
@@ -26,7 +27,7 @@ SWI-Prolog is a versatile open-source Prolog interpreter and development environ
 4. Execute queries on the loaded knowledge base to familiarize yourself with Prolog's logic programming paradigm.
 
 ### Output:
-[Include details about the expected output or screenshots here]
+
 
 ### Conclusion:
 This lab introduced the basics of the Prolog programming language using SWI Prolog.
