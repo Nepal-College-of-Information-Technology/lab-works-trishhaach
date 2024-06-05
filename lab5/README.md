@@ -32,7 +32,5 @@ The Min-Max search algorithm is expounded upon in this section, elucidating its 
 - Compile results and observations from each problem solved and game implemented.
 - Reflect on the learning outcomes and practical applications of Python programming and AI in gaming.
 
-### Output:
-
 ### Conclusion:
 This lab provided an introduction to Python programming basics through solving practical problems like the water jug and vacuum world puzzles, as well as implementing a Tic-Tac-Toe game with AI. Participants gained hands-on experience in Python fundamentals and AI application in gaming, laying a strong foundation for further exploration in programming and problem-solving.
