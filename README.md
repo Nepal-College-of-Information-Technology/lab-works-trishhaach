@@ -11,8 +11,8 @@ Each lab is organized into separate folders and includes its own README.md file 
 - Lab 3: Solving the Water Jug Problem in Prolog
 - Lab 4: Solving the Tower of Hanoi Problem in Prolog
 - Lab 5: Familiarization with programming in python
-- Lab 6: 
+- Lab 6: Linear Regression in Python
 
-Feel free to explore each lab's folder for more information on its objectives, procedures, and implementation details.
+Feel free to explore each lab's folder for more information on its objectives and procedures.
 
 
