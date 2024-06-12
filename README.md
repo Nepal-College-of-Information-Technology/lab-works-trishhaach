@@ -12,6 +12,7 @@ Each lab is organized into separate folders and includes its own README.md file 
 - Lab 4: Solving the Tower of Hanoi Problem in Prolog
 - Lab 5: Familiarization with programming in python
 - Lab 6: Linear Regression in Python
+- Lab 7: Classification using decision trees (IDT) algorithm
 
 Feel free to explore each lab's folder for more information on its objectives and procedures.
 
